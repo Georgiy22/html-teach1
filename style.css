@@ -1,0 +1,50 @@
+.container {
+    width: 1600px;
+    margin: 0 auto;
+}
+.header {
+    background: url('/img/backg.png') no-repeat center top / cover;
+}
+header a{
+    color: #000;
+}
+.menu {
+    display: flex;
+    margin-left: auto;
+}
+.menu li a{
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 14px;
+}
+.menu li {
+    list-style-type:none;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.nav{
+    display: flex;
+    padding-top: 50px;
+}
+h1 {
+    display: flex;
+    margin-top: 200px;
+    margin-left: 1000px;
+}
+.description {
+    display: flex;
+    margin-left: 1000px;
+    margin-right: 200px;
+}
+.btn {
+    margin-left: 1000px;
+    margin-right: 200px;
+    display: block;
+    color: #fff;
+    background-color: aqua;
+    width: 80px;
+    padding: 20px;
+}
+h3 {
+    margin-top: 1000px;
+}
